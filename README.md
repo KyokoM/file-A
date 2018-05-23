@@ -1,2 +1,3 @@
 file-A
 hello
+#test
