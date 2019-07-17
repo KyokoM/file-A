@@ -1,3 +1,1 @@
-file-A
-hello
-#test
+# code practice
